@@ -1,2 +1,3 @@
 *.env
+bump-version.sh
 **node_modules
